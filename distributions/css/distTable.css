@@ -1,0 +1,48 @@
+
+table.distribution {
+	width:90%;
+	border-top:1px solid #e5eff8;
+	border-right:1px solid #e5eff8;
+	margin:1em auto;
+		border-collapse:collapse;
+	}
+table.distribution caption {
+	color: #9ba9b4;
+	font-size:.94em;
+		letter-spacing:.1em;
+		margin:1em 0 0 0;
+		padding:0;
+		caption-side:top;
+		text-align:center;
+	}
+
+table.distribution tr.odd td	{
+	background:#f7fbff
+	}
+table.distribution tr.odd .column1	{
+	background:#f4f9fe;
+	}
+table.distribution .column1	{
+	background:#f9fcfe;
+	}
+/*table.distribution .column2	{*/
+	/*display: none;*/
+/*}*/
+table.distribution td {
+	/*color:#678197;*/
+	color: black;
+	border-bottom:1px solid #e5eff8;
+	border-left:1px solid #e5eff8;
+	padding:.3em 1em;
+	text-align:center;}
+
+table.distribution thead th {
+	background: lightseagreen;
+	text-align:center;
+	font:bold 1.2em/2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+
+	}
+
+h2{
+	text-align: center;
+}
